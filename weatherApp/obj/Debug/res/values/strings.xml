@@ -1,0 +1,1 @@
+<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">weatherApp</string><string name="rest_endpoint">https://api.forecast.io/forecast/</string><string name="forecast_key">63f0914cdd082e76d25b40161cbe70c4</string></resources>
