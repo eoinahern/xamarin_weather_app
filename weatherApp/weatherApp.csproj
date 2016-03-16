@@ -95,6 +95,7 @@
     <Compile Include="Entities\Currently.cs" />
     <Compile Include="Entities\Daily.cs" />
     <Compile Include="Entities\DailyData.cs" />
+    <Compile Include="Utils\DateTimeConverter.cs" />
     <Compile Include="views\DetailsScreen.cs" />
     <Compile Include="Entities\ForecastItem.cs" />
     <Compile Include="views\MainActivity.cs" />

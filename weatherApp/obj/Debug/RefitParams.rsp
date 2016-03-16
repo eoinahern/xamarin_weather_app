@@ -2,6 +2,7 @@ Adapters\WeatherAdapter.cs
 Entities\Currently.cs
 Entities\Daily.cs
 Entities\DailyData.cs
+Utils\DateTimeConverter.cs
 views\DetailsScreen.cs
 Entities\ForecastItem.cs
 views\MainActivity.cs
