@@ -1662,6 +1662,7 @@ containing a value of this type.
         public static final int contentPanel=0x7f060032;
         public static final int custom=0x7f060038;
         public static final int customPanel=0x7f060037;
+        public static final int daytxt=0x7f060061;
         public static final int decor_content_parent=0x7f060040;
         public static final int default_activity_button=0x7f060028;
         public static final int disableHome=0x7f06000d;
@@ -1721,7 +1722,7 @@ containing a value of this type.
         public static final int submit_area=0x7f06004d;
         public static final int summarytxt=0x7f060060;
         public static final int tabMode=0x7f06000c;
-        public static final int temptxt=0x7f060061;
+        public static final int temptxt=0x7f060062;
         public static final int text=0x7f06005d;
         public static final int text2=0x7f06005b;
         public static final int textSpacerNoButtons=0x7f060035;

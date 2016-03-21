@@ -1555,6 +1555,9 @@ namespace weatherApp
 			// aapt resource value: 0x7f060037
 			public const int customPanel = 2131099703;
 			
+			// aapt resource value: 0x7f060061
+			public const int daytxt = 2131099745;
+			
 			// aapt resource value: 0x7f060040
 			public const int decor_content_parent = 2131099712;
 			
@@ -1732,8 +1735,8 @@ namespace weatherApp
 			// aapt resource value: 0x7f06000c
 			public const int tabMode = 2131099660;
 			
-			// aapt resource value: 0x7f060061
-			public const int temptxt = 2131099745;
+			// aapt resource value: 0x7f060062
+			public const int temptxt = 2131099746;
 			
 			// aapt resource value: 0x7f06005d
 			public const int text = 2131099741;

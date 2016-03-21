@@ -12,6 +12,7 @@ using Android.Support.V7.Widget;
 using weatherApp.Entities;
 using weatherApp.ViewHolder;
 using Android.Util;
+using weatherApp.Utils;
 
 namespace weatherApp.Adapters
 {
@@ -20,6 +21,7 @@ namespace weatherApp.Adapters
 
         private List<DailyData> datalist;
         private Context cont;
+        private DateTimeConverter datetime;
 
         public WeatherAdapter(Context contin, List<DailyData> listin)
         {
@@ -36,12 +38,9 @@ namespace weatherApp.Adapters
         {
             weatherViewHolder vh = (weatherViewHolder)holder;
             
-            
             vh.summary.Text  = datalist[pos].summary.ToString();
-            //vh.temp.Text = datalist[pos].temperatureMin.ToString() + " F"
-
+            vh.day.Text = DateTimeConverter.getDay(datalist[pos].time);
             string name  = getResource(datalist[pos].icon);
-
             int id = cont.Resources.GetIdentifier(name, "drawable", "weatherApp.weatherApp");
             Log.Info("icon : ", datalist[pos].icon);
             Log.Info("resid ", id.ToString());

@@ -35,5 +35,6 @@ C:\Users\Eoin\documents\visual studio 2013\Projects\weatherApp\weatherApp\obj\De
 C:\Users\Eoin\documents\visual studio 2013\Projects\weatherApp\weatherApp\obj\Debug\res\drawable\fog.png
 C:\Users\Eoin\documents\visual studio 2013\Projects\weatherApp\weatherApp\obj\Debug\R.cs.flag
 C:\Users\Eoin\documents\visual studio 2013\Projects\weatherApp\weatherApp\obj\Debug\uploadflags.txt
+C:\Users\Eoin\documents\visual studio 2013\Projects\weatherApp\weatherApp\obj\Debug\weatherApp.csprojResolveAssemblyReference.cache
 C:\Users\Eoin\documents\visual studio 2013\Projects\weatherApp\weatherApp\obj\Debug\weatherApp.dll.mdb
 C:\Users\Eoin\documents\visual studio 2013\Projects\weatherApp\weatherApp\bin\Debug\weatherApp.dll.mdb
